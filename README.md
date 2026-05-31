@@ -20,7 +20,11 @@ The API manages blog posts using an in-memory array instead of a database.
 - JSON request and response handling
 
 ---
+## Screenshots
+<img width="580" height="499" alt="image" src="https://github.com/user-attachments/assets/714fcc7c-263b-4dab-a8d4-89fbd49eece7" />
+<img width="682" height="270" alt="image" src="https://github.com/user-attachments/assets/3e23f7dd-0c0c-4f44-a559-3e682ca8a64f" />
 
+---
 ## Technologies Used
 
 - Node.js
@@ -138,12 +142,11 @@ http://localhost:5000
 ## Deployment
 
 Live URL:
+(https://prodesk-mission-9.onrender.com/)
 
-[(Add Render URL Here)](https://prodesk-mission-9.onrender.com/)
 
-A TEJASYA
-P/IL/26/NOIDA/M1299
 
 ## Author
 
-Sprint 09 Submission
+A TEJASYA
+P/IL/26/NOIDA/M1299
